@@ -12,4 +12,5 @@ git常用指令
 7.git log 查看commit的记录
 8.git reflog  查看使用的命令日志
 9.git reset --hard HEAD^ 查看上个版本
-10. git restore <file>
+10. git restore <file>  撤销工作区操作，当暂存区有数据时候，同步到暂存区；暂存区没有数据时，暂存到分支
+
