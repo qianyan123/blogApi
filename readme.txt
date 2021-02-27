@@ -12,3 +12,4 @@ git常用指令
 7.git log 查看commit的记录
 8.git reflog  查看使用的命令日志
 9.git reset --hard HEAD^ 查看上个版本
+10. git restore <file>
